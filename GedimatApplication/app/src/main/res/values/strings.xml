@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gedimat Application</string>
+    <string name="bienvenue">Bienvenue sur l\'application du concours de Gedimat</string>
+    <string name="titre">Votez pour vos 3 réalisations préférées ! (3 réalisations différentes)</string>
+    <string name="terme_accept">J\'accepte les modalités de participation au concours Gedima\'Gination</string>
+    <string name="email_hint">Entrez votre email</string>
+    <string name="code_hint">Entrez votre code de participation</string>
+    <string name="rating_prompt">Choisissez une note</string>
+
+    <string-array name="rating_options">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+
+
+</resources>
